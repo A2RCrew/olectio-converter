@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.forceBlackBG {
+  background: black !important;
+}
+
+* {
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.outlined {
+  color: white;
+  text-shadow: -1px -1px 0 #0006, 1px -1px 0 #0006, -1px 1px 0 #0006, 1px 1px 0 #0006;
+}
+
+.text-layer {
+  line-height: 1;  
+}
+
+.text-layer > span {
+  transform-origin: 0% 0%;
+  position: absolute;
+  white-space: pre;
+  cursor: text;
+  display: block;
+}

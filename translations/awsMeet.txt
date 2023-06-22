@@ -1,0 +1,34 @@
+"LLM - BINPAR" has started on 5669320134. Attendees from "LLM - BINPAR" have been added to this meeting. They can't view chat messages that are sent before they join. 
+
+Meetings using the same meeting ID at the same time are merged.
+
+- https://www.philschmid.de/fine-tuning-layoutlm-keras
+- https://www.philschmid.de/fine-tuning-lilt
+
+https://github.com/aws-samples/amazon-textract-textractor
+
+https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo
+
+https://github.com/OpenGVLab/Ask-Anything
+
+https://llava-vl.github.io/
+
+https://minigpt-4.github.io/
+
+https://github.com/microsoft/JARVIS
+
+
+[April 24, 2023, 10:58 AM] Amazon Chime: "LLM - BINPAR" has started on 5669320134. Attendees from "LLM - BINPAR" have been added to this meeting. They can't view chat messages that are sent before they join. 
+
+Meetings using the same meeting ID at the same time are merged.
+[April 24, 2023, 11:28 AM] Metallo, Nicolas: Nacho: https://www.philschmid.de/fine-tuning-layoutlm-keras y https://www.philschmid.de/fine-tuning-lilt
+[April 24, 2023, 11:38 AM] Metallo, Nicolas: GitHub - aws-samples/amazon-textract-textractor: Analyze documents with Amazon Textract and generate output in multiple formats.github.comAnalyze documents with Amazon Textract and generate output in multiple formats. - GitHub - aws-samples/amazon-textract-textractor: Analyze documents with Amazon Textract and generate output in mult...https://github.com/aws-samples/amazon-textract-textractor
+[April 24, 2023, 11:40 AM] Metallo, Nicolas: aca podes ver esto en AWS: https://github.com/aws-samples/generative-ai-sagemaker-cdk-demo
+[April 24, 2023, 11:45 AM] Metallo, Nicolas: GitHub - OpenGVLab/Ask-Anything: a simple yet interesting tool for chatting about video with chatGPT, miniGPT4, StableLM and MOSSgithub.coma simple yet interesting tool for chatting about video with chatGPT, miniGPT4, StableLM and MOSS - GitHub - OpenGVLab/Ask-Anything: a simple yet interesting tool for chatting about video with chatG...https://github.com/OpenGVLab/Ask-Anything
+[April 24, 2023, 11:46 AM] Metallo, Nicolas: LLaVAllava-vl.github.ioVisual Instruction Tuninghttps://llava-vl.github.io/
+[April 24, 2023, 11:46 AM] Metallo, Nicolas: Minigpt-4minigpt-4.github.ioMinigpt-4https://minigpt-4.github.io/
+[April 24, 2023, 11:47 AM] Metallo, Nicolas: GitHub - microsoft/JARVIS: JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdfgithub.comJARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf - GitHub - microsoft/JARVIS: JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv...https://github.com/microsoft/JARVIS
+[April 24, 2023, 11:48 AM] ‹Ignacio Ferro Picón›: Sí... JARVIS lo conozco
+[April 24, 2023, 12:01 PM] Ramos Arroyo, Victor: sorry, tengo q saltar, luego t busco CarlosL
+[April 24, 2023, 12:04 PM] Metallo, Nicolas: Amazon Textract Specialists - Firemind - AWS Specialists in AI/ML, Data &amp; Analytics and Advisory Services - Firemindwww.firemind.comFind out how our specialised experience, using the AI tool Amazon Textract, can transform your document processing.https://www.firemind.com/textract-specialists/
+[April 24, 2023, 12:09 PM] Metallo, Nicolas: metallo@amazon.com

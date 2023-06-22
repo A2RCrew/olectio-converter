@@ -1,4 +1,4 @@
-# The Nimrod Project
+# Olectio Converter
 
 The purpose of this R&D project is to explore the technological limits of converting PDF files to HTML5 while extracting and optimizing all the information contained in the PDF. The project will be developed entirely in Typescript including the PDF analysis and data extraction at a binary level.
 
